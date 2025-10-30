@@ -232,19 +232,17 @@ console.log(greeting);
 ```markdown
 :::message
 ### メッセージ
-このセクションで最も重要な概念は、〇〇〇です。
-必ず理解してください。
+letとconstの違い分かったかな？
 :::
 ```
 
-**中央配置：**
+**ノート：**
 
-![w=60% center](assets/center.png)
-
-```markdown
-:::center
-### 中央配置
-中央配置がしたくなる場合はこちらです。
+![w=60% center](assets/note.png)
+```
+:::note
+### 昔はインデントが厳密だった
+たとえばCOBOLはインデントが重要です
 :::
 ```
 
